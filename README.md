@@ -18,7 +18,8 @@ The API contains two endpoints:
 
 1- clone the project
 
-git clone https://github.com/khaoula-ichaoui/blue-harvest-assignement.git
+git clone https://github.com/khaoula-ichaoui/current-account-management-api
+.git
 
 2- Run the application as a spring boot application
 
@@ -59,4 +60,4 @@ with response code 400 (Bad Request)
 ## Contact
 
 E-mail: khaoula.ichaoui@gmail.com
-Project Link : https://github.com/khaoula-ichaoui/blue-harvest-assignement.git
+Project Link : https://github.com/khaoula-ichaoui/current-account-management-api.git
